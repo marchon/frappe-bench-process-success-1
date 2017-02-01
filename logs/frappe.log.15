@@ -1,0 +1,121 @@
+[ERROR] 2017-01-26 16:24:31,379 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: crv.agilebusiness.net
+Form Dict: {
+ "action": "Save", 
+ "cmd": "frappe.desk.form.save.savedocs", 
+ "doc": "{\"docstatus\":0,\"doctype\":\"Crv_attendance\",\"name\":\"New Crv_attendance 1\",\"__islocal\":1,\"__unsaved\":1,\"owner\":\"vmorales@prosadata.com\",\"naming_series\":\"ATT-\",\"company\":\"Coastal Range Vineyards\",\"employee\":\"EMP/0003\",\"att_date\":\"2017-01-26\",\"employee_name\":\"Caro\",\"vineyard\":\"150d86bc8a\",\"status\":\"Active\",\"work order\":\"WORKORD00001\",\"task\":\"916ec1aa9d\",\"leave_type\":\"Leave Without Pay\",\"customer\":\"Customer 1\"}"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 55, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 19, in handle
+    execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 40, in execute_cmd
+    ret = frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 890, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/desk/form/save.py", line 22, in savedocs
+    doc.save()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 233, in save
+    return self._save(*args, **kwargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 252, in _save
+    self.insert()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 214, in insert
+    self.db_insert()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/base_document.py", line 296, in db_insert
+    ), d.values())
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 137, in sql
+    self._cursor.execute(query, values)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+OperationalError: (1054, "Unknown column 'work order' in 'field list'")
+[ERROR] 2017-01-26 16:33:14,550 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: crv.agilebusiness.net
+Form Dict: {
+ "action": "Save", 
+ "cmd": "frappe.desk.form.save.savedocs", 
+ "doc": "{\"docstatus\":0,\"doctype\":\"Crv_attendance\",\"name\":\"New Crv_attendance 1\",\"__islocal\":1,\"__unsaved\":1,\"owner\":\"vmorales@prosadata.com\",\"naming_series\":\"ATT-\",\"company\":\"Coastal Range Vineyards\",\"work order\":\"WORKORD00001\",\"employee\":\"EMP/0002\",\"status\":\"ok\",\"leave_type\":\"\",\"att_date\":\"2017-01-01\",\"vineyard\":\"150d86bc8a\",\"task\":\"916ec1aa9d\"}"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 55, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 19, in handle
+    execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 40, in execute_cmd
+    ret = frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 890, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/desk/form/save.py", line 22, in savedocs
+    doc.save()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 233, in save
+    return self._save(*args, **kwargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 252, in _save
+    self.insert()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 214, in insert
+    self.db_insert()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/base_document.py", line 296, in db_insert
+    ), d.values())
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 137, in sql
+    self._cursor.execute(query, values)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+OperationalError: (1054, "Unknown column 'work order' in 'field list'")
+[ERROR] 2017-01-26 17:32:27,674 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: crv.agilebusiness.net
+Form Dict: {
+ "cmd": "erpnext.hr.doctype.employee_attendance_tool.employee_attendance_tool.mark_single_employee_attendance", 
+ "company": "{{ company }}", 
+ "date": "{{ att_date }}", 
+ "employee": "{{ employee }}", 
+ "employee_name": "{{ employee_name }}", 
+ "status": "Present"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 55, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 19, in handle
+    execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 40, in execute_cmd
+    ret = frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 890, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/erpnext/erpnext/hr/doctype/employee_attendance_tool/employee_attendance_tool.py", line 64, in mark_single_employee_attendance
+    attendance.submit()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 727, in submit
+    self._submit()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 716, in _submit
+    self.save()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 233, in save
+    return self._save(*args, **kwargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 252, in _save
+    self.insert()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 203, in insert
+    self.run_before_save_methods()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 757, in run_before_save_methods
+    self.run_method("validate")
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 655, in run_method
+    out = Document.hook(fn)(self, *args, **kwargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 883, in composer
+    return composed(self, method, *args, **kwargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 866, in runner
+    add_to_return_value(self, fn(self, *args, **kwargs))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 649, in <lambda>
+    fn = lambda self, *args, **kwargs: getattr(self, method)(*args, **kwargs)
+  File "/home/frappe/frappe-bench/apps/erpnext/erpnext/hr/doctype/attendance/attendance.py", line 45, in validate
+    self.validate_att_date()
+  File "/home/frappe/frappe-bench/apps/erpnext/erpnext/hr/doctype/attendance/attendance.py", line 33, in validate_att_date
+    if getdate(self.att_date) > getdate(nowdate()):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/data.py", line 39, in getdate
+    return parser.parse(string_date).date()
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/dateutil/parser.py", line 1168, in parse
+    return DEFAULTPARSER.parse(timestr, **kwargs)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/dateutil/parser.py", line 559, in parse
+    raise ValueError("Unknown string format")
+ValueError: Unknown string format

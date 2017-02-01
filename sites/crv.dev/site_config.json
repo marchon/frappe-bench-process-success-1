@@ -1,0 +1,15 @@
+{
+ "db_name": "f1a125dc50a7ee2a", 
+ "db_password": "PGaA78zJEFaCiHms", 
+ "developer_mode": 1, 
+ "dormant": true, 
+ "limits": {
+  "space_usage": {
+   "backup_size": 1.0, 
+   "database_size": 9.57, 
+   "files_size": 2.0, 
+   "total": 12.57
+  }
+ }, 
+ "nginx_port": 5000
+}

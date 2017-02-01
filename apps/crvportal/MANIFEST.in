@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include crvportal *.css
+recursive-include crvportal *.csv
+recursive-include crvportal *.html
+recursive-include crvportal *.ico
+recursive-include crvportal *.js
+recursive-include crvportal *.json
+recursive-include crvportal *.md
+recursive-include crvportal *.png
+recursive-include crvportal *.py
+recursive-include crvportal *.svg
+recursive-include crvportal *.txt
+recursive-exclude crvportal *.pyc
