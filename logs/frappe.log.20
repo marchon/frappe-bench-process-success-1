@@ -1,1896 +1,1896 @@
-[DEBUG] 2017-01-22 08:42:20,231 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 16:41:38,627 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 08:42:20,236 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 16:41:38,633 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 08:46:20,522 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 16:45:38,919 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 08:46:20,527 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 16:45:38,923 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 08:50:20,809 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 16:49:39,152 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 08:50:20,814 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 16:49:39,157 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 08:54:21,077 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 16:53:39,443 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 08:54:21,082 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 16:53:39,448 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 08:58:21,363 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 16:57:39,732 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 08:58:21,368 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 16:57:39,737 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 09:02:21,652 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 17:01:40,026 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 09:02:21,657 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 17:01:40,032 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 09:06:21,938 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 17:05:40,315 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 09:06:21,943 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 17:05:40,320 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 09:10:22,215 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 17:09:40,620 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 09:10:22,221 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 17:09:40,624 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 09:14:22,512 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 17:13:40,911 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 09:14:22,516 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 17:13:40,916 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 09:18:22,786 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 17:17:41,172 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 09:18:22,790 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 17:17:41,178 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 09:22:22,994 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 17:21:41,463 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 09:22:22,998 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 17:21:41,468 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 09:26:23,281 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 17:25:41,765 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 09:26:23,285 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 17:25:41,770 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 09:30:23,526 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 17:29:42,055 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 09:30:23,538 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 17:29:42,059 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 09:34:23,790 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 17:33:42,357 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 09:34:23,811 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 17:33:42,368 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 09:38:24,094 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 17:37:42,641 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 09:38:24,099 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 17:37:42,645 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 09:42:24,362 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 17:41:42,930 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 09:42:24,377 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 17:41:42,935 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 09:46:24,662 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 17:45:43,220 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 09:46:24,667 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 17:45:43,235 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 09:50:24,943 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 17:49:43,535 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 09:50:24,947 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 17:49:43,540 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 09:54:25,230 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 17:53:43,805 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 09:54:25,235 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 17:53:43,810 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 09:58:25,513 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 17:57:44,078 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 09:58:25,518 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 17:57:44,083 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 10:02:25,810 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 18:01:44,376 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 10:02:25,815 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 18:01:44,381 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 10:06:26,105 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 18:05:44,666 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 10:06:26,109 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 18:05:44,671 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 10:10:26,378 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 18:09:44,957 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 10:10:26,383 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 18:09:44,961 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 10:14:26,620 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 18:13:45,233 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 10:14:26,640 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 18:13:45,238 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 10:18:26,914 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 18:17:45,532 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 10:18:26,919 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 18:17:45,536 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 10:22:27,200 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 18:21:45,797 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 10:22:27,211 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 18:21:45,802 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 10:26:27,451 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 18:25:46,089 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 10:26:27,455 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 18:25:46,093 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 10:30:27,742 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 18:29:46,349 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 10:30:27,767 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 18:29:46,354 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 10:34:28,048 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 18:33:46,643 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 10:34:28,066 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 18:33:46,701 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 10:38:28,269 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 18:37:46,952 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 10:38:28,273 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 18:37:46,957 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 10:42:28,563 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 18:41:47,222 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 10:42:28,568 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 18:41:47,227 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 10:46:28,852 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 18:45:47,511 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 10:46:28,869 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 18:45:47,515 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 10:50:29,158 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 18:49:47,779 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 10:50:29,163 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 18:49:47,784 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 10:54:29,423 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 18:53:48,074 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 10:54:29,455 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 18:53:48,083 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 10:58:29,737 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 18:57:48,334 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 10:58:29,742 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 18:57:48,338 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 11:02:30,029 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 19:01:48,627 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 11:02:30,036 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 19:01:48,632 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 11:06:30,361 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 19:05:48,916 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 11:06:30,368 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 19:05:48,920 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 11:10:30,640 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 19:09:49,193 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 11:10:30,644 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 19:09:49,198 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 11:14:30,926 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 19:13:49,483 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 11:14:30,931 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 19:13:49,487 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 11:18:31,228 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 19:17:49,771 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 11:18:31,233 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 19:17:49,776 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 11:22:31,518 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 19:21:50,062 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 11:22:31,522 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 19:21:50,080 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 11:26:31,807 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 19:25:50,331 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 11:26:31,811 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 19:25:50,336 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 11:30:32,074 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 19:29:50,620 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 11:30:32,091 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 19:29:50,625 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 11:34:32,377 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 19:33:50,910 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 11:34:32,382 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 19:33:50,922 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 11:38:32,653 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 19:37:51,158 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 11:38:32,671 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 19:37:51,163 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 11:42:32,957 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 19:41:51,420 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 11:42:32,961 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 19:41:51,433 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 11:46:33,244 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 19:45:51,708 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 11:46:33,248 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 19:45:51,712 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 11:50:33,496 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 19:49:52,000 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 11:50:33,500 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 19:49:52,005 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 11:54:33,782 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 19:53:52,289 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 11:54:33,799 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 19:53:52,293 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 11:58:34,078 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 19:57:52,578 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 11:58:34,084 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 19:57:52,598 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 12:02:34,376 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 20:01:52,887 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 12:02:34,381 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 20:01:52,892 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 12:06:34,620 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 20:05:53,157 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 12:06:34,625 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 20:05:53,168 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 12:10:34,907 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 20:09:53,457 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 12:10:34,911 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 20:09:53,470 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 12:14:35,197 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 20:13:53,732 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 12:14:35,202 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 20:13:53,736 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 12:18:35,457 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 20:17:54,021 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 12:18:35,461 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 20:17:54,037 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 12:22:35,717 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 20:21:54,317 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 12:22:35,730 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 20:21:54,330 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 12:26:35,950 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 20:25:54,615 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 12:26:35,956 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 20:25:54,619 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 12:30:36,223 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 20:29:54,901 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 12:30:36,249 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 20:29:54,906 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 12:34:36,538 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 20:33:55,191 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 12:34:36,542 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 20:33:55,208 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 12:38:36,826 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 20:37:55,494 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 12:38:36,831 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 20:37:55,498 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 12:42:37,117 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 20:41:55,785 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 12:42:37,133 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 20:41:55,790 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 12:46:37,429 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 20:45:56,079 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 12:46:37,433 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 20:45:56,084 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 12:50:37,722 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 20:49:56,367 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 12:50:37,726 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 20:49:56,372 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 12:54:37,999 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 20:53:56,660 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 12:54:38,004 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 20:53:56,665 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 12:58:38,300 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 20:57:56,913 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 12:58:38,305 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 20:57:56,918 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 13:02:38,577 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 21:01:57,203 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 13:02:38,581 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 21:01:57,238 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 13:06:38,865 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 21:05:57,497 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 13:06:38,870 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 21:05:57,515 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 13:10:39,157 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 21:09:57,800 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 13:10:39,162 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 21:09:57,805 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 13:14:39,428 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 21:13:58,090 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 13:14:39,432 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 21:13:58,095 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 13:18:39,705 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 21:17:58,360 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 13:18:39,710 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 21:17:58,365 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 13:22:39,972 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 21:21:58,656 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 13:22:39,976 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 21:21:58,660 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 13:26:40,263 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 21:25:58,913 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 13:26:40,270 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 21:25:58,919 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 13:30:40,549 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 21:29:59,201 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 13:30:40,565 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 21:29:59,216 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 13:34:40,852 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 21:33:59,501 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 13:34:40,856 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 21:33:59,513 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 13:38:41,141 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 21:37:59,801 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 13:38:41,146 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 21:37:59,806 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 13:42:41,419 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 21:42:00,083 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 13:42:41,424 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 21:42:00,087 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 13:46:41,711 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 21:46:00,300 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 13:46:41,715 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 21:46:00,305 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 13:50:41,939 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 21:50:00,589 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 13:50:41,957 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 21:50:00,597 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 13:54:42,250 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 21:54:00,843 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 13:54:42,255 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 21:54:00,848 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 13:58:42,496 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 21:58:01,138 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 13:58:42,501 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 21:58:01,142 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 14:02:42,771 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 22:02:01,429 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 14:02:42,776 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 22:02:01,433 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 14:06:43,061 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 22:06:01,707 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 14:06:43,078 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 22:06:01,712 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 14:10:43,362 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 22:10:02,010 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 14:10:43,366 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 22:10:02,015 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 14:14:43,653 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 22:14:02,302 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 14:14:43,657 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 22:14:02,306 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 14:18:43,896 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 22:18:02,599 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 14:18:43,900 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 22:18:02,603 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 14:22:44,187 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 22:22:02,867 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 14:22:44,196 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 22:22:02,872 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 14:26:44,466 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 22:26:03,160 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 14:26:44,470 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 22:26:03,165 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 14:30:44,754 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 22:30:03,419 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 14:30:44,770 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 22:30:03,431 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 14:34:45,056 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 22:34:03,670 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 14:34:45,061 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 22:34:03,675 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 14:38:45,344 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 22:38:03,928 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 14:38:45,362 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 22:38:03,933 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 14:42:45,660 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 22:42:04,171 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 14:42:45,665 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 22:42:04,176 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 14:46:45,935 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 22:46:04,403 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 14:46:45,939 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 22:46:04,407 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 14:50:46,214 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 22:50:04,666 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 14:50:46,218 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 22:50:04,671 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 14:54:46,461 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 22:54:04,922 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 14:54:46,465 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 22:54:04,926 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 14:58:46,749 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 22:58:05,199 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 14:58:46,764 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 22:58:05,204 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 15:02:47,047 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 23:02:05,492 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 15:02:47,052 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 23:02:05,498 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 15:06:47,331 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 23:06:05,779 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 15:06:47,343 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 23:06:05,783 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 15:10:47,627 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 23:10:06,059 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 15:10:47,642 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 23:10:06,064 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 15:14:47,936 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 23:14:06,346 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 15:14:47,941 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 23:14:06,350 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 15:18:48,204 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 23:18:06,634 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 15:18:48,209 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 23:18:06,639 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 15:22:48,435 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 23:22:06,886 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 15:22:48,440 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 23:22:06,891 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 15:26:48,726 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 23:26:07,174 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 15:26:48,751 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 23:26:07,179 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 15:30:48,994 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 23:30:07,465 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 15:30:49,006 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 23:30:07,487 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 15:34:49,272 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 23:34:07,703 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 15:34:49,276 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 23:34:07,721 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 15:38:49,560 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 23:38:07,962 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 15:38:49,565 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 23:38:07,968 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 15:42:49,816 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 23:42:08,230 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 15:42:49,820 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 23:42:08,235 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 15:46:50,080 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 23:46:08,472 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 15:46:50,097 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 23:46:08,477 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 15:50:50,367 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 23:50:08,760 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 15:50:50,371 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 23:50:08,765 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 15:54:50,656 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 23:54:09,002 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 15:54:50,660 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 23:54:09,007 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 15:58:50,945 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 23:58:09,300 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 15:58:50,951 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-26 23:58:09,307 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 16:02:51,202 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 00:02:09,543 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 16:02:51,207 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 00:02:09,551 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 16:06:51,490 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 00:06:09,837 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 16:06:51,494 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 00:06:09,842 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 16:10:51,777 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 00:10:10,129 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 16:10:51,782 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 00:10:10,134 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 16:14:52,066 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 00:14:10,402 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 16:14:52,071 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 00:14:10,406 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 16:18:52,338 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 00:18:10,669 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 16:18:52,343 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 00:18:10,674 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 16:22:52,626 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 00:22:10,941 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 16:22:52,631 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 00:22:10,946 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 16:26:52,918 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 00:26:11,231 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 16:26:52,922 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 00:26:11,236 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 16:30:53,188 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 00:30:11,450 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 16:30:53,207 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 00:30:11,461 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 16:34:53,493 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 00:34:11,735 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 16:34:53,502 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 00:34:11,740 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 16:38:53,749 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 00:38:12,023 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 16:38:53,754 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 00:38:12,028 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 16:42:54,001 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 00:42:12,229 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 16:42:54,006 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 00:42:12,337 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 16:46:54,256 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 00:46:12,624 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 16:46:54,262 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 00:46:12,629 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 16:50:54,522 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 00:50:12,899 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 16:50:54,535 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 00:50:12,903 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 16:54:54,808 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 00:54:13,187 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 16:54:54,822 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 00:54:13,191 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 16:58:55,102 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 00:58:13,475 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 16:58:55,107 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 00:58:13,481 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 17:02:55,389 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 01:02:13,770 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 17:02:55,396 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 01:02:13,774 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 17:06:55,662 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 01:06:14,059 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 17:06:55,667 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 01:06:14,064 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 17:10:55,949 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 01:10:14,348 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 17:10:55,954 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 01:10:14,353 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 17:14:56,239 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 01:14:14,599 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 17:14:56,251 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 01:14:14,616 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 17:18:56,534 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 01:18:14,858 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 17:18:56,539 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 01:18:14,864 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 17:22:56,826 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 01:22:15,097 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 17:22:56,830 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 01:22:15,102 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 17:26:57,000 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 01:26:15,359 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 17:26:57,004 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 01:26:15,364 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 17:30:57,287 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 01:30:15,617 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 17:30:57,298 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 01:30:15,637 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 17:34:57,589 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 01:34:15,878 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 17:34:57,594 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 01:34:15,883 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 17:38:57,875 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 01:38:16,122 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 17:38:57,880 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 01:38:16,127 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 17:42:58,164 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 01:42:16,380 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 17:42:58,168 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 01:42:16,393 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 17:46:58,424 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 01:46:16,679 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 17:46:58,429 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 01:46:16,683 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 17:50:58,684 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 01:50:16,900 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 17:50:58,697 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 01:50:16,918 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 17:54:58,960 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 01:54:17,203 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 17:54:58,972 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 01:54:17,208 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 17:58:59,255 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 01:58:17,492 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 17:58:59,260 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 01:58:17,497 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 18:02:59,547 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 02:02:17,773 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 18:02:59,560 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 02:02:17,777 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 18:06:59,844 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 02:06:18,064 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 18:06:59,856 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 02:06:18,069 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 18:11:00,141 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 02:10:18,346 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 18:11:00,145 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 02:10:18,351 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 18:15:00,429 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 02:14:18,635 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 18:15:00,434 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 02:14:18,640 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 18:19:00,718 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 02:18:18,864 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 18:19:00,722 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 02:18:18,868 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 18:23:01,007 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 02:22:19,152 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 18:23:01,012 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 02:22:19,164 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 18:27:01,321 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 02:26:19,447 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 18:27:01,326 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 02:26:19,452 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 18:31:01,569 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 02:30:19,726 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 18:31:01,663 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 02:30:19,746 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 18:35:01,921 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 02:34:20,028 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 18:35:01,927 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 02:34:20,033 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 18:39:02,201 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 02:38:20,299 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 18:39:02,228 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 02:38:20,304 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 18:43:02,509 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 02:42:20,591 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 18:43:02,514 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 02:42:20,596 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 18:47:02,779 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 02:46:20,847 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 18:47:02,784 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 02:46:20,852 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 18:51:03,069 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 02:50:21,153 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 18:51:03,099 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 02:50:21,157 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 18:55:03,385 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 02:54:21,443 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 18:55:03,390 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 02:54:21,447 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 18:59:03,634 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 02:58:21,698 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 18:59:03,638 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 02:58:21,711 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 19:03:03,927 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 03:02:22,014 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 19:03:03,931 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 03:02:22,019 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 19:07:04,196 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 03:06:22,285 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 19:07:04,205 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 03:06:22,290 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 19:11:04,497 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 03:10:22,558 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 19:11:04,502 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 03:10:22,563 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 19:15:04,784 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 03:14:22,821 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 19:15:04,789 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 03:14:22,825 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 19:19:05,020 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 03:18:23,106 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 19:19:05,024 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 03:18:23,122 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 19:23:05,262 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 03:22:23,405 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 19:23:05,267 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 03:22:23,410 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 19:27:05,510 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 03:26:23,576 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 19:27:05,514 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 03:26:23,581 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 19:31:05,786 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 03:30:23,865 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 19:31:05,802 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 03:30:23,877 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 19:35:06,071 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 03:34:24,153 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 19:35:06,075 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 03:34:24,157 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 19:39:06,355 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 03:38:24,410 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 19:39:06,361 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 03:38:24,415 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 19:43:06,621 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 03:42:24,714 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 19:43:06,626 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 03:42:24,718 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 19:47:06,888 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 03:46:24,965 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 19:47:06,893 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 03:46:24,969 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 19:51:07,175 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 03:50:25,256 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 19:51:07,180 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 03:50:25,260 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 19:55:07,472 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 03:54:25,543 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 19:55:07,477 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 03:54:25,548 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 19:59:07,756 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 03:58:25,832 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 19:59:07,761 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 03:58:25,837 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 20:03:08,052 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 04:02:26,126 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 20:03:08,056 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 04:02:26,130 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 20:07:08,342 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 04:06:26,416 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 20:07:08,347 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 04:06:26,422 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 20:11:08,646 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 04:10:26,706 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 20:11:08,650 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 04:10:26,723 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 20:15:08,918 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 04:14:26,986 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 20:15:08,930 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 04:14:26,991 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 20:19:09,206 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 04:18:27,269 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 20:19:09,211 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 04:18:27,273 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 20:23:09,443 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 04:22:27,534 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 20:23:09,469 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 04:22:27,538 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 20:27:09,737 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 04:26:27,779 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 20:27:09,742 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 04:26:27,783 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 20:31:10,002 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 04:30:28,041 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 20:31:10,025 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 04:30:28,052 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 20:35:10,307 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 04:34:28,293 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 20:35:10,312 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 04:34:28,298 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 20:39:10,591 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 04:38:28,581 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 20:39:10,595 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 04:38:28,586 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 20:43:10,852 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 04:42:28,862 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 20:43:10,870 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 04:42:28,867 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 20:47:11,157 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 04:46:29,151 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 20:47:11,162 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 04:46:29,166 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 20:51:11,383 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 04:50:29,440 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 20:51:11,388 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 04:50:29,445 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 20:55:11,672 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 04:54:29,732 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 20:55:11,698 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 04:54:29,737 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 20:59:11,984 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 04:58:30,020 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 20:59:11,988 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 04:58:30,024 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 21:03:12,277 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 05:02:30,303 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 21:03:12,283 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 05:02:30,310 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 21:07:12,565 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 05:06:30,582 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 21:07:12,570 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 05:06:30,587 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 21:11:12,826 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 05:10:30,845 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 21:11:12,841 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 05:10:30,850 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 21:15:13,087 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 05:14:31,135 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 21:15:13,092 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 05:14:31,140 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 21:19:13,362 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 05:18:31,424 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 21:19:13,367 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 05:18:31,429 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 21:23:13,649 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 05:22:31,711 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 21:23:13,664 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 05:22:31,715 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 21:27:13,947 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 05:26:31,997 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 21:27:13,952 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 05:26:32,002 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 21:31:14,238 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 05:30:32,279 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 21:31:14,253 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 05:30:32,291 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 21:35:14,537 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 05:34:32,578 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 21:35:14,541 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 05:34:32,593 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 21:39:14,774 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 05:38:32,877 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 21:39:14,792 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 05:38:32,881 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 21:43:15,075 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 05:42:33,170 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 21:43:15,079 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 05:42:33,174 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 21:47:15,323 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 05:46:33,457 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 21:47:15,328 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 05:46:33,462 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 21:51:15,615 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 05:50:33,740 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 21:51:15,620 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 05:50:33,745 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 21:55:15,904 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 05:54:34,006 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 21:55:15,908 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 05:54:34,011 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 21:59:16,165 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 05:58:34,260 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 21:59:16,182 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 05:58:34,292 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 22:03:16,468 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 06:02:34,590 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 22:03:16,486 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 06:02:34,597 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 22:07:16,687 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 06:06:34,874 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 22:07:16,691 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 06:06:34,879 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 22:11:16,945 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 06:10:35,165 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 22:11:16,957 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 06:10:35,170 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 22:15:17,231 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 06:14:35,417 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 22:15:17,235 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 06:14:35,422 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 22:19:17,513 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 06:18:35,718 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 22:19:17,519 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 06:18:35,728 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 22:23:17,801 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 06:22:36,013 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 22:23:17,806 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 06:22:36,023 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 22:27:18,055 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 06:26:36,322 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 22:27:18,060 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 06:26:36,326 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 22:31:18,347 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 06:30:36,612 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 22:31:18,370 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 06:30:36,625 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 22:35:18,624 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 06:34:36,906 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 22:35:18,628 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 06:34:36,912 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 22:39:18,915 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 06:38:37,184 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 22:39:18,936 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 06:38:37,189 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 22:43:19,215 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 06:42:37,462 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 22:43:19,232 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 06:42:37,467 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 22:47:19,518 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 06:46:37,751 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 22:47:19,522 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 06:46:37,756 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 22:51:19,808 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 06:50:38,008 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 22:51:19,812 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 06:50:38,015 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 22:55:20,049 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 06:54:38,297 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 22:55:20,053 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 06:54:38,302 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 22:59:20,336 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 06:58:38,588 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 22:59:20,341 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 06:58:38,593 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 23:03:20,626 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 07:02:38,875 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 23:03:20,631 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 07:02:38,880 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 23:07:20,889 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 07:06:39,165 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 23:07:20,894 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 07:06:39,170 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 23:11:21,110 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 07:10:39,457 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 23:11:21,124 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 07:10:39,462 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 23:15:21,353 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 07:14:39,759 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 23:15:21,357 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 07:14:39,764 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 23:19:21,641 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 07:18:40,010 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 23:19:21,645 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 07:18:40,015 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 23:23:21,884 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 07:22:40,298 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 23:23:21,888 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 07:22:40,303 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 23:27:22,177 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 07:26:40,532 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 23:27:22,181 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 07:26:40,537 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 23:31:22,476 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 07:30:40,787 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 23:31:22,512 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 07:30:40,799 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 23:35:22,799 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 07:34:41,093 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 23:35:22,805 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 07:34:41,099 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 23:39:23,089 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 07:38:41,348 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 23:39:23,094 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 07:38:41,352 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 23:43:23,347 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 07:42:41,620 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 23:43:23,353 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 07:42:41,625 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 23:47:23,635 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 07:46:41,911 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 23:47:23,640 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 07:46:41,915 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 23:51:23,924 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 07:50:42,170 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 23:51:23,928 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 07:50:42,175 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 23:55:24,204 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 07:54:42,459 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 23:55:24,208 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 07:54:42,463 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-22 23:59:24,471 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 07:58:42,726 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-22 23:59:24,475 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 07:58:42,730 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 00:03:24,720 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 08:02:43,059 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 00:03:24,725 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 08:02:43,064 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 00:07:24,999 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 08:06:43,339 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 00:07:25,004 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 08:06:43,344 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 00:11:25,289 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 08:10:43,629 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 00:11:25,294 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 08:10:43,634 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 00:15:25,560 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 08:14:43,903 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 00:15:25,564 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 08:14:43,907 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 00:19:25,807 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 08:18:44,177 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 00:19:25,812 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 08:18:44,181 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 00:23:26,084 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 08:22:44,468 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 00:23:26,088 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 08:22:44,473 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 00:27:26,384 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 08:26:44,673 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 00:27:26,401 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 08:26:44,678 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 00:31:26,643 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 08:30:44,929 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 00:31:26,654 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 08:30:44,941 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 00:35:26,940 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 08:34:45,201 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 00:35:26,944 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 08:34:45,206 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 00:39:27,221 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 08:38:45,482 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 00:39:27,226 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 08:38:45,487 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 00:43:27,459 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 08:42:45,784 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 00:43:27,464 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 08:42:45,789 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 00:47:27,750 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 08:46:46,004 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 00:47:27,755 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 08:46:46,009 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 00:51:28,059 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 08:50:46,283 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 00:51:28,063 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 08:50:46,288 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 00:55:28,351 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 08:54:46,576 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 00:55:28,355 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 08:54:46,581 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 00:59:28,609 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 08:58:46,875 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 00:59:28,613 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 08:58:46,891 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 01:03:28,886 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 09:02:47,180 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 01:03:28,894 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 09:02:47,185 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 01:07:29,154 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 09:06:47,430 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 01:07:29,161 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 09:06:47,442 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 01:11:29,414 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 09:10:47,726 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 01:11:29,419 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 09:10:47,738 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 01:15:29,704 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 09:14:48,009 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 01:15:29,708 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 09:14:48,120 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 01:19:29,960 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 09:18:48,406 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 01:19:29,964 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 09:18:48,411 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 01:23:30,241 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 09:22:48,669 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 01:23:30,246 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 09:22:48,680 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 01:27:30,482 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 09:26:48,967 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 01:27:30,486 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 09:26:48,972 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 01:31:30,770 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 09:30:49,255 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 01:31:30,782 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 09:30:49,267 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 01:35:31,070 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 09:34:49,553 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 01:35:31,075 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 09:34:49,567 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 01:39:31,352 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 09:38:49,833 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 01:39:31,357 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 09:38:49,838 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 01:43:31,634 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 09:42:50,138 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 01:43:31,639 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 09:42:50,142 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 01:47:31,921 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 09:46:50,428 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 01:47:31,926 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 09:46:50,432 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 01:51:32,211 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 09:50:50,709 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 01:51:32,216 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 09:50:50,713 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 01:55:32,490 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 09:54:50,968 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 01:55:32,495 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 09:54:50,972 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 01:59:32,720 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 09:58:51,254 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 01:59:32,725 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 09:58:51,277 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 02:03:33,012 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 10:02:51,565 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 02:03:33,017 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 10:02:51,583 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 02:07:33,223 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 10:06:51,801 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 02:07:33,231 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 10:06:51,808 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 02:11:33,526 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 10:10:52,089 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 02:11:33,530 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 10:10:52,094 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 02:15:33,830 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 10:14:52,395 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 02:15:33,834 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 10:14:52,400 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 02:19:34,119 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 10:18:52,645 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 02:19:34,124 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 10:18:52,649 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 02:23:34,393 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 10:22:52,933 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 02:23:34,409 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 10:22:52,938 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 02:27:34,694 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 10:26:53,215 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 02:27:34,698 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 10:26:53,219 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 02:31:34,985 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 10:30:53,505 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 02:31:35,002 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 10:30:53,517 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 02:35:35,216 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 10:34:53,800 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 02:35:35,221 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 10:34:53,805 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 02:39:35,494 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 10:38:54,100 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 02:39:35,508 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 10:38:54,104 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 02:43:35,790 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 10:42:54,385 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 02:43:35,795 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 10:42:54,390 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 02:47:36,054 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 10:46:54,629 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 02:47:36,058 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 10:46:54,634 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 02:51:36,342 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 10:50:54,916 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 02:51:36,347 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 10:50:54,921 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 02:55:36,628 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 10:54:55,175 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 02:55:36,633 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 10:54:55,189 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 02:59:36,920 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 10:58:55,474 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 02:59:36,925 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 10:58:55,500 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 03:03:37,205 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 11:02:55,763 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 03:03:37,213 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 11:02:55,768 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 03:07:37,502 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 11:06:56,051 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 03:07:37,507 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 11:06:56,055 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 03:11:37,766 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 11:10:56,339 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 03:11:37,771 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 11:10:56,355 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 03:15:38,057 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 11:14:56,568 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 03:15:38,062 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 11:14:56,573 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 03:19:38,329 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 11:18:56,861 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 03:19:38,334 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 11:18:56,867 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 03:23:38,610 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 11:22:57,112 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 03:23:38,614 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 11:22:57,116 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 03:27:38,898 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 11:26:57,400 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 03:27:38,903 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 11:26:57,405 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 03:31:39,153 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 11:30:57,702 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 03:31:39,165 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 11:30:57,713 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 03:35:39,440 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 11:34:58,013 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 03:35:39,445 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 11:34:58,017 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 03:39:39,685 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 11:38:58,312 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 03:39:39,690 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 11:38:58,317 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 03:43:39,974 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 11:42:58,588 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 03:43:39,978 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 11:42:58,593 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 03:47:40,263 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 11:46:58,865 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 03:47:40,278 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 11:46:58,883 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 03:51:40,509 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 11:50:59,123 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 03:51:40,514 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 11:50:59,129 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 03:55:40,806 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 11:54:59,394 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 03:55:40,811 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 11:54:59,399 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 03:59:41,090 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 11:58:59,683 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 03:59:41,094 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 11:58:59,705 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 04:03:41,382 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 12:02:59,994 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 04:03:41,390 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 12:02:59,999 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 04:07:41,663 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 12:07:00,284 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 04:07:41,668 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 12:07:00,291 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 04:11:41,938 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 12:11:00,535 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 04:11:41,942 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 12:11:00,539 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 04:15:42,215 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 12:15:00,823 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 04:15:42,220 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 12:15:00,827 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 04:19:42,454 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 12:19:01,083 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 04:19:42,458 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 12:19:01,087 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 04:23:42,712 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 12:23:01,386 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 04:23:42,717 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 12:23:01,390 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 04:27:42,975 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 12:27:01,669 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 04:27:42,979 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 12:27:01,674 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 04:31:43,251 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 12:31:01,930 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 04:31:43,272 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 12:31:01,952 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 04:35:43,542 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 12:35:02,223 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 04:35:43,547 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 12:35:02,243 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 04:39:43,821 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 12:39:02,518 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 04:39:43,826 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 12:39:02,529 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 04:43:44,111 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 12:43:02,808 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 04:43:44,121 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 12:43:02,813 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 04:47:44,380 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 12:47:03,061 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 04:47:44,384 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 12:47:03,066 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 04:51:44,675 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 12:51:03,350 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 04:51:44,680 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 12:51:03,355 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 04:55:44,960 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 12:55:03,643 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 04:55:44,974 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 12:55:03,648 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 04:59:45,257 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 12:59:03,945 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 04:59:45,262 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 12:59:03,950 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 05:03:45,545 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 13:03:04,242 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 05:03:45,553 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 13:03:04,247 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 05:07:45,827 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 13:07:04,453 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 05:07:45,839 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 13:07:04,457 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 05:11:46,102 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 13:11:04,747 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 05:11:46,107 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 13:11:04,763 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 05:15:46,351 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 13:15:04,999 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 05:15:46,356 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 13:15:05,003 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 05:19:46,625 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 13:19:05,287 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 05:19:46,641 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 13:19:05,308 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 05:23:46,881 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 13:23:05,591 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 05:23:46,885 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 13:23:05,596 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 05:27:47,164 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 13:27:05,850 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 05:27:47,169 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 13:27:05,855 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 05:31:47,454 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 13:31:06,116 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 05:31:47,466 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 13:31:06,127 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 05:35:47,709 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 13:35:06,384 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 05:35:47,738 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 13:35:06,389 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 05:39:48,033 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 13:39:06,663 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 05:39:48,038 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 13:39:06,685 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
-[DEBUG] 2017-01-23 05:43:48,292 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 13:43:06,962 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.agilebusiness.net
 Queued events for site crv.agilebusiness.net
-[DEBUG] 2017-01-23 05:43:48,296 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2017-01-27 13:43:06,978 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: crv.dev
 Queued events for site crv.dev
