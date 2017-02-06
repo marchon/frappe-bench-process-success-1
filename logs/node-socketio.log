@@ -6068,3 +6068,16 @@ listening on *: 9000
      links: {},
      setEncoding: [Function: bound ],
      redirects: [] } }
+{ Error: getaddrinfo EAI_AGAIN crv.agilebusiness.net:80
+    at Object.exports._errnoException (util.js:1022:11)
+    at errnoException (dns.js:33:15)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:76:26)
+  code: 'EAI_AGAIN',
+  errno: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'crv.agilebusiness.net',
+  host: 'crv.agilebusiness.net',
+  port: 80,
+  response: undefined }
+No response for doc_subscribe
+No response for doc_subscribe

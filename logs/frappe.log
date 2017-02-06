@@ -2,3 +2,64 @@
 New Exception collected with id: 2017-02-06 18:13:50.343881-190.64.49.27-648
 [ERROR] 2017-02-06 18:15:58,222 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
 New Exception collected with id: 2017-02-06 18:15:58.221313-190.64.49.27-c27
+[ERROR] 2017-02-06 21:45:12,712 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: crv.agilebusiness.net
+Form Dict: {
+ "cmd": "frappe.desk.moduleview.get"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 55, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 19, in handle
+    execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 40, in execute_cmd
+    ret = frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 890, in call
+    return fn(*args, **newargs)
+TypeError: get() takes exactly 1 argument (0 given)
+[ERROR] 2017-02-06 21:45:12,746 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2017-02-06 21:45:12.712622-167.61.70.184-d45
+[ERROR] 2017-02-06 21:46:45,112 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: crv.agilebusiness.net
+Form Dict: {
+ "cmd": "frappe.core.doctype.user.user.reset_password", 
+ "user": "vmorales@prosadata.com"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 55, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 19, in handle
+    execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 40, in execute_cmd
+    ret = frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 890, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/core/doctype/user/user.py", line 621, in reset_password
+    user.reset_password(send_email=True)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/core/doctype/user/user.py", line 234, in reset_password
+    self.password_reset_mail(link)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/core/doctype/user/user.py", line 253, in password_reset_mail
+    "templates/emails/password_reset.html", {"link": link}, now=True)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/core/doctype/user/user.py", line 294, in send_login_mail
+    delayed=(not now) if now!=None else self.flags.delay_emails, retry=3)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 404, in sendmail
+    cc=cc, message_id=message_id, in_reply_to=in_reply_to, retry=retry)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/email/__init__.py", line 21, in sendmail
+    reply_to=reply_to, cc=cc)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/email/email_body.py", line 17, in get_email
+    emailobj = EMail(sender, recipients, subject, reply_to=reply_to, cc=cc, email_account=email_account)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/email/email_body.py", line 61, in __init__
+    self.email_account = email_account or get_outgoing_email_account()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/email/smtp.py", line 66, in get_outgoing_email_account
+    frappe.OutgoingEmailError)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 300, in throw
+    msgprint(msg, raise_exception=exc, title=title, indicator='red')
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 293, in msgprint
+    _raise_exception()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 266, in _raise_exception
+    raise raise_exception, encode(msg)
+OutgoingEmailError: Please setup default Email Account from Setup > Email > Email Account
+[ERROR] 2017-02-06 21:46:45,117 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2017-02-06 21:46:45.112936-167.61.70.184-7d1

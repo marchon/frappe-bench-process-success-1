@@ -1,0 +1,321 @@
+{
+ "etype": "<class 'frappe.exceptions.OutgoingEmailError'>", 
+ "evalue": "OutgoingEmailError('Please setup default Email Account from Setup > Email > Email Account',)", 
+ "exception": {
+  "args": "('Please setup default Email Account from Setup > Email > Email Account',)", 
+  "http_status_code": "501", 
+  "message": "'Please setup default Email Account from Setup > Email > Email Account'"
+ }, 
+ "frames": [
+  {
+   "call": "(request=<Request 'http://crv.agilebusiness.net/' [POST]>)", 
+   "dump": {
+    "frappe. handler": "<module 'frappe.handler' from '/home/frappe/frappe-bench/apps/frappe/frappe/handler.pyc'>", 
+    "frappe.handler. handle": "<function handle>", 
+    "global frappe": "<module 'frappe' from '/home/frappe/frappe-bench/apps/frappe/frappe/__init__.pyc'>", 
+    "response": "None"
+   }, 
+   "file": "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", 
+   "func": "application", 
+   "lines": {
+    "53": "", 
+    "54": "\t\tif frappe.local.form_dict.cmd:", 
+    "55": "\t\t\tresponse = frappe.handler.handle()", 
+    "56": "", 
+    "57": "\t\telif frappe.request.path.startswith(\"/api/\"):"
+   }, 
+   "lnum": 55
+  }, 
+  {
+   "call": "()", 
+   "dump": {
+    "cmd": "u'frappe.core.doctype.user.user.reset_password'", 
+    "global execute_cmd": "<function execute_cmd>"
+   }, 
+   "file": "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", 
+   "func": "handle", 
+   "lines": {
+    "17": "", 
+    "18": "\tif cmd!='login':", 
+    "19": "\t\texecute_cmd(cmd)", 
+    "20": "", 
+    "21": "\treturn build_response(\"json\")"
+   }, 
+   "lnum": 19
+  }, 
+  {
+   "call": "(cmd=u'frappe.core.doctype.user.user.reset_password', from_async=False)", 
+   "dump": {
+    "frappe. call": "<function call>", 
+    "frappe. form_dict": "{'cmd': u'frappe.core.doctype.user.user.reset_password', 'user': u'vmorales@prosadata.com'}", 
+    "global frappe": "<module 'frappe' from '/home/frappe/frappe-bench/apps/frappe/frappe/__init__.pyc'>", 
+    "method": "<function reset_password>", 
+    "ret": "undefined"
+   }, 
+   "file": "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", 
+   "func": "execute_cmd", 
+   "lines": {
+    "38": "\tis_whitelisted(method)", 
+    "39": "", 
+    "40": "\tret = frappe.call(method, **frappe.form_dict)", 
+    "41": "", 
+    "42": "\t# returns with a message"
+   }, 
+   "lnum": 40
+  }, 
+  {
+   "call": "(fn=<function reset_password>, *args=(), **kwargs={'cmd': u'frappe.core.doctype.user.user.reset_password', 'user': u'vmorales@prosadata.com'})", 
+   "dump": {
+    "args": "()", 
+    "fn": "<function reset_password>", 
+    "newargs": "{'user': u'vmorales@prosadata.com'}"
+   }, 
+   "file": "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", 
+   "func": "call", 
+   "lines": {
+    "888": "\t\tdel newargs[\"flags\"]", 
+    "889": "", 
+    "890": "\treturn fn(*args, **newargs)", 
+    "891": "", 
+    "892": "def make_property_setter(args, ignore_validate=False, validate_fields_for_doctype=True):"
+   }, 
+   "lnum": 890
+  }, 
+  {
+   "call": "(user=<frappe.core.doctype.user.user.User object>)", 
+   "dump": {
+    "builtin True": "True", 
+    "send_email": "undefined", 
+    "user": "<frappe.core.doctype.user.user.User object>", 
+    "user. reset_password": "<bound method User.reset_password of <frappe.core.doctype.user.user.User object>>"
+   }, 
+   "file": "/home/frappe/frappe-bench/apps/frappe/frappe/core/doctype/user/user.py", 
+   "func": "reset_password", 
+   "lines": {
+    "619": "\t\tuser = frappe.get_doc(\"User\", user)", 
+    "620": "\t\tuser.validate_reset_password()", 
+    "621": "\t\tuser.reset_password(send_email=True)", 
+    "622": "", 
+    "623": "\t\treturn _(\"Password reset instructions have been sent to your email\")"
+   }, 
+   "lnum": 621
+  }, 
+  {
+   "call": "(self=<frappe.core.doctype.user.user.User object>, send_email=True)", 
+   "dump": {
+    "link": "u'http://crv.agilebusiness.net/update-password?key=hGCj7NnYteBREw3EdOTgkEEVYi8gOgJ4'", 
+    "self": "<frappe.core.doctype.user.user.User object>", 
+    "self. password_reset_mail": "<bound method User.password_reset_mail of <frappe.core.doctype.user.user.User object>>"
+   }, 
+   "file": "/home/frappe/frappe-bench/apps/frappe/frappe/core/doctype/user/user.py", 
+   "func": "reset_password", 
+   "lines": {
+    "232": "", 
+    "233": "\t\tif send_email:", 
+    "234": "\t\t\tself.password_reset_mail(link)", 
+    "235": "", 
+    "236": "\t\treturn link"
+   }, 
+   "lnum": 234
+  }, 
+  {
+   "call": "(self=<frappe.core.doctype.user.user.User object>, link=u'http://crv.agilebusiness.net/update-password?key=hGCj7NnYteBREw3EdOTgkEEVYi8gOgJ4')", 
+   "dump": {
+    "builtin True": "True", 
+    "link": "u'http://crv.agilebusiness.net/update-password?key=hGCj7NnYteBREw3EdOTgkEEVYi8gOgJ4'", 
+    "now": "undefined"
+   }, 
+   "file": "/home/frappe/frappe-bench/apps/frappe/frappe/core/doctype/user/user.py", 
+   "func": "password_reset_mail", 
+   "lines": {
+    "251": "\tdef password_reset_mail(self, link):", 
+    "252": "\t\tself.send_login_mail(_(\"Password Reset\"),", 
+    "253": "\t\t\t\"templates/emails/password_reset.html\", {\"link\": link}, now=True)", 
+    "254": "", 
+    "255": "\tdef password_update_mail(self, password):"
+   }, 
+   "lnum": 253
+  }, 
+  {
+   "call": "(self=<frappe.core.doctype.user.user.User object>, subject=u'Password Reset', template=u'templates/emails/password_reset.html', add_args={u'link': u'http://crv.agilebusiness.net/update-password?key=hGCj7NnYteBREw3EdOTgkEEVYi8gOgJ4'}, now=True)", 
+   "dump": {
+    "builtin None": "None", 
+    "delayed": "undefined", 
+    "now": "True", 
+    "retry": "undefined", 
+    "self": "<frappe.core.doctype.user.user.User object>", 
+    "self. flags": "{'ignore_save_passwords': True, 'email_alerts': [], 'email_alerts_executed': []}", 
+    "self.flags. delay_emails": "None"
+   }, 
+   "file": "/home/frappe/frappe-bench/apps/frappe/frappe/core/doctype/user/user.py", 
+   "func": "send_login_mail", 
+   "lines": {
+    "292": "\t\tfrappe.sendmail(recipients=self.email, sender=sender, subject=subject,", 
+    "293": "\t\t\tmessage=frappe.get_template(template).render(args),", 
+    "294": "\t\t\tdelayed=(not now) if now!=None else self.flags.delay_emails, retry=3)", 
+    "295": "", 
+    "296": "\tdef a_system_manager_should_exist(self):"
+   }, 
+   "lnum": 294
+  }, 
+  {
+   "call": "(recipients=u'vmorales@prosadata.com', sender=None, subject=u'Password Reset', message=u'<h3>Password Reset</h3>\\n<br>\\n<p>Dear Victor,...J4</a></p>\\n<p>Thank you,<br>\\nAdministrator</p>', as_markdown=False, delayed=False, reference_doctype=None, reference_name=None, unsubscribe_method=None, unsubscribe_params=None, unsubscribe_message=None, attachments=None, content=None, doctype=None, name=None, reply_to=None, cc=(), show_as_cc=(), message_id=None, in_reply_to=None, send_after=None, expose_recipients=False, send_priority=1, communication=None, retry=3)", 
+   "dump": {
+    "cc": "()", 
+    "in_reply_to": "None", 
+    "message_id": "None", 
+    "retry": "3"
+   }, 
+   "file": "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", 
+   "func": "sendmail", 
+   "lines": {
+    "402": "\t\t\tfrappe.email.sendmail(recipients, sender=sender,", 
+    "403": "\t\t\t\tsubject=subject, msg=content or message, attachments=attachments, reply_to=reply_to,", 
+    "404": "\t\t\t\tcc=cc, message_id=message_id, in_reply_to=in_reply_to, retry=retry)", 
+    "405": "", 
+    "406": "whitelisted = []"
+   }, 
+   "lnum": 404
+  }, 
+  {
+   "call": "(recipients=u'vmorales@prosadata.com', sender=None, msg=u'<h3>Password Reset</h3>\\n<br>\\n<p>Dear Victor,...J4</a></p>\\n<p>Thank you,<br>\\nAdministrator</p>', subject=u'Password Reset', attachments=None, content=None, reply_to=None, cc=(), message_id=None, in_reply_to=None, retry=3)", 
+   "dump": {
+    "cc": "()", 
+    "reply_to": "None"
+   }, 
+   "file": "/home/frappe/frappe-bench/apps/frappe/frappe/email/__init__.py", 
+   "func": "sendmail", 
+   "lines": {
+    "19": "\t\"\"\"send an html email as multipart with attachments and all\"\"\"", 
+    "20": "\tmail = get_email(recipients, sender, content or msg, subject, attachments=attachments,", 
+    "21": "\t\treply_to=reply_to, cc=cc)", 
+    "22": "\tif message_id:", 
+    "23": "\t\tmail.set_message_id(message_id)"
+   }, 
+   "lnum": 21
+  }, 
+  {
+   "call": "(recipients=u'vmorales@prosadata.com', sender=None, msg=u'<h3>Password Reset</h3>\\n<br>\\n<p>Dear Victor,...J4</a></p>\\n<p>Thank you,<br>\\nAdministrator</p>', subject=u'Password Reset', text_content=None, footer=None, print_html=None, formatted=None, attachments=None, content=u'<h3>Password Reset</h3>\\n<br>\\n<p>Dear Victor,...J4</a></p>\\n<p>Thank you,<br>\\nAdministrator</p>', reply_to=None, cc=(), email_account=None)", 
+   "dump": {
+    "cc": "()", 
+    "email_account": "None", 
+    "emailobj": "undefined", 
+    "global EMail": "<class frappe.email.email_body.EMail>", 
+    "recipients": "u'vmorales@prosadata.com'", 
+    "reply_to": "None", 
+    "sender": "None", 
+    "subject": "u'Password Reset'"
+   }, 
+   "file": "/home/frappe/frappe-bench/apps/frappe/frappe/email/email_body.py", 
+   "func": "get_email", 
+   "lines": {
+    "15": "\t\"\"\"send an html email as multipart with attachments and all\"\"\"", 
+    "16": "\tcontent = content or msg", 
+    "17": "\temailobj = EMail(sender, recipients, subject, reply_to=reply_to, cc=cc, email_account=email_account)", 
+    "18": "", 
+    "19": "\tif not content.strip().startswith(\"<\"):"
+   }, 
+   "lnum": 17
+  }, 
+  {
+   "call": "(self=<frappe.email.email_body.EMail instance>, sender=None, recipients=[u'vmorales@prosadata.com'], subject=u'Password Reset', alternative=0, reply_to=None, cc=(), email_account=None)", 
+   "dump": {
+    "email_account": "None", 
+    "global get_outgoing_email_account": "<function get_outgoing_email_account>", 
+    "self": "<frappe.email.email_body.EMail instance>", 
+    "self.email_account": "undefined"
+   }, 
+   "file": "/home/frappe/frappe-bench/apps/frappe/frappe/email/email_body.py", 
+   "func": "__init__", 
+   "lines": {
+    "59": "\t\tself.html_set = False", 
+    "60": "", 
+    "61": "\t\tself.email_account = email_account or get_outgoing_email_account()", 
+    "62": "", 
+    "63": "\tdef set_html(self, message, text_content = None, footer=None, print_html=None, formatted=None):"
+   }, 
+   "lnum": 61
+  }, 
+  {
+   "call": "(raise_exception_not_set=True, append_to=None)", 
+   "dump": {
+    "frappe. OutgoingEmailError": "<class 'frappe.exceptions.OutgoingEmailError'>", 
+    "global frappe": "<module 'frappe' from '/home/frappe/frappe-bench/apps/frappe/frappe/__init__.pyc'>"
+   }, 
+   "file": "/home/frappe/frappe-bench/apps/frappe/frappe/email/smtp.py", 
+   "func": "get_outgoing_email_account", 
+   "lines": {
+    "64": "\t\tif not email_account and raise_exception_not_set:", 
+    "65": "\t\t\tfrappe.throw(_(\"Please setup default Email Account from Setup > Email > Email Account\"),", 
+    "66": "\t\t\t\tfrappe.OutgoingEmailError)", 
+    "67": "", 
+    "68": "\t\tif email_account:"
+   }, 
+   "lnum": 66
+  }, 
+  {
+   "call": "(msg=u'Please setup default Email Account from Setup > Email > Email Account', exc=<class 'frappe.exceptions.OutgoingEmailError'>, title=None)", 
+   "dump": {
+    "exc": "<class 'frappe.exceptions.OutgoingEmailError'>", 
+    "global msgprint": "<function msgprint>", 
+    "indicator": "undefined", 
+    "msg": "u'Please setup default Email Account from Setup > Email > Email Account'", 
+    "raise_exception": "undefined", 
+    "title": "None"
+   }, 
+   "file": "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", 
+   "func": "throw", 
+   "lines": {
+    "298": "\t:param msg: Message.", 
+    "299": "\t:param exc: Exception class. Default `frappe.ValidationError`\"\"\"", 
+    "300": "\tmsgprint(msg, raise_exception=exc, title=title, indicator='red')", 
+    "301": "", 
+    "302": "def emit_js(js, user=False, **kwargs):"
+   }, 
+   "lnum": 300
+  }, 
+  {
+   "call": "(msg=u'Please setup default Email Account from Setup > Email > Email Account', title=None, raise_exception=<class 'frappe.exceptions.OutgoingEmailError'>, as_table=False, indicator=u'red', alert=False)", 
+   "dump": {
+    "_raise_exception": "<function _raise_exception>"
+   }, 
+   "file": "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", 
+   "func": "msgprint", 
+   "lines": {
+    "291": "", 
+    "292": "\tmessage_log.append(json.dumps(out))", 
+    "293": "\t_raise_exception()", 
+    "294": "", 
+    "295": "def throw(msg, exc=ValidationError, title=None):"
+   }, 
+   "lnum": 293
+  }, 
+  {
+   "call": "()", 
+   "dump": {
+    "encode": "<function encode>", 
+    "msg": "u'Please setup default Email Account from Setup > Email > Email Account'", 
+    "raise_exception": "<class 'frappe.exceptions.OutgoingEmailError'>"
+   }, 
+   "file": "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", 
+   "func": "_raise_exception", 
+   "lines": {
+    "264": "", 
+    "265": "\t\t\tif inspect.isclass(raise_exception) and issubclass(raise_exception, Exception):", 
+    "266": "\t\t\t\traise raise_exception, encode(msg)", 
+    "267": "\t\t\telse:", 
+    "268": "\t\t\t\traise ValidationError, encode(msg)"
+   }, 
+   "lnum": 266
+  }
+ ], 
+ "locals": {
+  "encode": "<function encode>", 
+  "inspect": "<module 'inspect' from '/usr/lib/python2.7/inspect.pyc'>", 
+  "msg": "u'Please setup default Email Account from Setup > Email > Email Account'", 
+  "raise_exception": "<class 'frappe.exceptions.OutgoingEmailError'>"
+ }, 
+ "pyver": "Python 2.7.12: /home/frappe/frappe-bench/env/bin/python (prefix: /home/frappe/frappe-bench/env)", 
+ "timestamp": "2017-02-06 21:46:45.113039", 
+ "traceback": "Traceback (most recent call last):\n  File \"/home/frappe/frappe-bench/apps/frappe/frappe/app.py\", line 55, in application\n    response = frappe.handler.handle()\n  File \"/home/frappe/frappe-bench/apps/frappe/frappe/handler.py\", line 19, in handle\n    execute_cmd(cmd)\n  File \"/home/frappe/frappe-bench/apps/frappe/frappe/handler.py\", line 40, in execute_cmd\n    ret = frappe.call(method, **frappe.form_dict)\n  File \"/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py\", line 890, in call\n    return fn(*args, **newargs)\n  File \"/home/frappe/frappe-bench/apps/frappe/frappe/core/doctype/user/user.py\", line 621, in reset_password\n    user.reset_password(send_email=True)\n  File \"/home/frappe/frappe-bench/apps/frappe/frappe/core/doctype/user/user.py\", line 234, in reset_password\n    self.password_reset_mail(link)\n  File \"/home/frappe/frappe-bench/apps/frappe/frappe/core/doctype/user/user.py\", line 253, in password_reset_mail\n    \"templates/emails/password_reset.html\", {\"link\": link}, now=True)\n  File \"/home/frappe/frappe-bench/apps/frappe/frappe/core/doctype/user/user.py\", line 294, in send_login_mail\n    delayed=(not now) if now!=None else self.flags.delay_emails, retry=3)\n  File \"/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py\", line 404, in sendmail\n    cc=cc, message_id=message_id, in_reply_to=in_reply_to, retry=retry)\n  File \"/home/frappe/frappe-bench/apps/frappe/frappe/email/__init__.py\", line 21, in sendmail\n    reply_to=reply_to, cc=cc)\n  File \"/home/frappe/frappe-bench/apps/frappe/frappe/email/email_body.py\", line 17, in get_email\n    emailobj = EMail(sender, recipients, subject, reply_to=reply_to, cc=cc, email_account=email_account)\n  File \"/home/frappe/frappe-bench/apps/frappe/frappe/email/email_body.py\", line 61, in __init__\n    self.email_account = email_account or get_outgoing_email_account()\n  File \"/home/frappe/frappe-bench/apps/frappe/frappe/email/smtp.py\", line 66, in get_outgoing_email_account\n    frappe.OutgoingEmailError)\n  File \"/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py\", line 300, in throw\n    msgprint(msg, raise_exception=exc, title=title, indicator='red')\n  File \"/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py\", line 293, in msgprint\n    _raise_exception()\n  File \"/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py\", line 266, in _raise_exception\n    raise raise_exception, encode(msg)\nOutgoingEmailError: Please setup default Email Account from Setup > Email > Email Account\n"
+}
